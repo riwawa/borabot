@@ -1,6 +1,9 @@
 [
-  {
+    {
     "usuario": "Bia",
-    "texto": "role em casa"
-  }
+    "texto": "Cinema",
+    "tipo": "cultural",
+    "orcamento": "médio",
+    "duracao": "curta"
+    }
 ]
